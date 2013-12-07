@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-finnish
 Version:	20131013
-Release:	3
+Release:	4
 Summary:	TeXLive babel-finnish package
 Group:		Publishing
 URL:		http://tug.org/texlive
