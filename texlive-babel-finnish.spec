@@ -5,9 +5,9 @@ Summary:	TeXLive babel-finnish package
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-finnish.r57643.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-finnish.doc.r57643.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-finnish.source.r57643.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-finnish.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-finnish.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-finnish.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
