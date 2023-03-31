@@ -1,6 +1,6 @@
 Name:		texlive-babel-finnish
 Version:	57643
-Release:	1
+Release:	2
 Summary:	TeXLive babel-finnish package
 Group:		Publishing
 URL:		http://tug.org/texlive
